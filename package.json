@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS lessons tutorial",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Asilbek Karomatov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "jquery": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
