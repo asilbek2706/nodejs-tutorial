@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
-    "jquery": "^4.0.0"
+    "jquery": "^4.0.0",
+    "prettier": "^3.8.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
